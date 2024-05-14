@@ -1,0 +1,7 @@
+C:\Users\rahul\source\repos\SimpleTaskListApp\SimpleTaskListApp\bin\Debug\SimpleTaskListApp.exe.config
+C:\Users\rahul\source\repos\SimpleTaskListApp\SimpleTaskListApp\bin\Debug\SimpleTaskListApp.exe
+C:\Users\rahul\source\repos\SimpleTaskListApp\SimpleTaskListApp\bin\Debug\SimpleTaskListApp.pdb
+C:\Users\rahul\source\repos\SimpleTaskListApp\SimpleTaskListApp\obj\Debug\SimpleTaskListApp.csproj.AssemblyReference.cache
+C:\Users\rahul\source\repos\SimpleTaskListApp\SimpleTaskListApp\obj\Debug\SimpleTaskListApp.csproj.CoreCompileInputs.cache
+C:\Users\rahul\source\repos\SimpleTaskListApp\SimpleTaskListApp\obj\Debug\SimpleTaskListApp.exe
+C:\Users\rahul\source\repos\SimpleTaskListApp\SimpleTaskListApp\obj\Debug\SimpleTaskListApp.pdb
