@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F902C7F0-A18A-4149-8A6B-E5E256C9EDC4}</ProjectGuid>
+    <ProjectGuid>{4A442593-C1B2-423D-813D-354170E90AF5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>SimpleTaskListApp</RootNamespace>
     <AssemblyName>SimpleTaskListApp</AssemblyName>
@@ -43,8 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SimpleTaskListApp.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Task.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
