@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|c:\\users\\rahul\\source\\repos\\visitorsecurityclearance\\visitorsecurityclearancesystem\\visitorsecurityclearancesystem\\cosmodb\\cosmodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|solutionrelative:visitorsecurityclearancesystem\\cosmodb\\cosmodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|c:\\users\\rahul\\source\\repos\\visitorsecurityclearance\\visitorsecurityclearancesystem\\visitorsecurityclearancesystem\\cosmodb\\icosmodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|solutionrelative:visitorsecurityclearancesystem\\cosmodb\\icosmodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|c:\\users\\rahul\\source\\repos\\visitorsecurityclearance\\visitorsecurityclearancesystem\\visitorsecurityclearancesystem\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|solutionrelative:visitorsecurityclearancesystem\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|c:\\users\\rahul\\source\\repos\\visitorsecurityclearance\\visitorsecurityclearancesystem\\visitorsecurityclearancesystem\\services\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|solutionrelative:visitorsecurityclearancesystem\\services\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|c:\\users\\rahul\\source\\repos\\visitorsecurityclearance\\visitorsecurityclearancesystem\\visitorsecurityclearancesystem\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|solutionrelative:visitorsecurityclearancesystem\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|c:\\users\\rahul\\source\\repos\\visitorsecurityclearance\\visitorsecurityclearancesystem\\visitorsecurityclearancesystem\\services\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|solutionrelative:visitorsecurityclearancesystem\\services\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|c:\\users\\rahul\\source\\repos\\visitorsecurityclearance\\visitorsecurityclearancesystem\\visitorsecurityclearancesystem\\services\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|solutionrelative:visitorsecurityclearancesystem\\services\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|c:\\users\\rahul\\source\\repos\\visitorsecurityclearance\\visitorsecurityclearancesystem\\visitorsecurityclearancesystem\\interface\\imanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|solutionrelative:visitorsecurityclearancesystem\\interface\\imanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|c:\\users\\rahul\\source\\repos\\visitorsecurityclearance\\visitorsecurityclearancesystem\\visitorsecurityclearancesystem\\entites\\managerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|solutionrelative:visitorsecurityclearancesystem\\entites\\managerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|c:\\users\\rahul\\source\\repos\\visitorsecurityclearance\\visitorsecurityclearancesystem\\visitorsecurityclearancesystem\\dto\\securitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|solutionrelative:visitorsecurityclearancesystem\\dto\\securitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|c:\\users\\rahul\\source\\repos\\visitorsecurityclearance\\visitorsecurityclearancesystem\\visitorsecurityclearancesystem\\dto\\managerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|solutionrelative:visitorsecurityclearancesystem\\dto\\managerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|c:\\users\\rahul\\source\\repos\\visitorsecurityclearance\\visitorsecurityclearancesystem\\visitorsecurityclearancesystem\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|solutionrelative:visitorsecurityclearancesystem\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|c:\\users\\rahul\\source\\repos\\visitorsecurityclearance\\visitorsecurityclearancesystem\\visitorsecurityclearancesystem\\controllers\\securityusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|solutionrelative:visitorsecurityclearancesystem\\controllers\\securityusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|c:\\users\\rahul\\source\\repos\\visitorsecurityclearance\\visitorsecurityclearancesystem\\visitorsecurityclearancesystem\\controllers\\officeusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|solutionrelative:visitorsecurityclearancesystem\\controllers\\officeusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|c:\\users\\rahul\\source\\repos\\visitorsecurityclearance\\visitorsecurityclearancesystem\\visitorsecurityclearancesystem\\common\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|solutionrelative:visitorsecurityclearancesystem\\common\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|c:\\users\\rahul\\source\\repos\\visitorsecurityclearance\\visitorsecurityclearancesystem\\visitorsecurityclearancesystem\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|solutionrelative:visitorsecurityclearancesystem\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|c:\\users\\rahul\\source\\repos\\visitorsecurityclearance\\visitorsecurityclearancesystem\\visitorsecurityclearancesystem\\common\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6BED0F-E919-4D94-AD7D-DC5A84DD0521}|VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem.csproj|solutionrelative:visitorsecurityclearancesystem\\common\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CosmoDBService.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\CosmoDB\\CosmoDBService.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystem\\CosmoDB\\CosmoDBService.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\CosmoDB\\CosmoDBService.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystem\\CosmoDB\\CosmoDBService.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:00:22.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICosmoDBService.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\CosmoDB\\ICosmoDBService.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystem\\CosmoDB\\ICosmoDBService.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\CosmoDB\\ICosmoDBService.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystem\\CosmoDB\\ICosmoDBService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:00:10.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Credentials.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Common\\Credentials.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystem\\Common\\Credentials.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Common\\Credentials.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystem\\Common\\Credentials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:43:33.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystem\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystem\\Common\\BaseEntity.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:43:24.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Common\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystem\\Common\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Common\\AutoMapperProfile.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystem\\Common\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:43:17.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IManagerService.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Interface\\IManagerService.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystem\\Interface\\IManagerService.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Interface\\IManagerService.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystem\\Interface\\IManagerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:42:43.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManagerEntity.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Entites\\ManagerEntity.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystem\\Entites\\ManagerEntity.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Entites\\ManagerEntity.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystem\\Entites\\ManagerEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:42:27.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SecurityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\DTO\\SecurityDTO.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystem\\DTO\\SecurityDTO.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\DTO\\SecurityDTO.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystem\\DTO\\SecurityDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:42:24.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManagerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\DTO\\ManagerDTO.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystem\\DTO\\ManagerDTO.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\DTO\\ManagerDTO.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystem\\DTO\\ManagerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:42:22.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystem\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystem\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:42:18.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerService.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Services\\ManagerService.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystem\\Services\\ManagerService.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Services\\ManagerService.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystem\\Services\\ManagerService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:41:16.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystem\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Services\\EmailSender.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystem\\Services\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:41:06.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VisitorController.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Controllers\\VisitorController.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystem\\Controllers\\VisitorController.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Controllers\\VisitorController.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystem\\Controllers\\VisitorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:49:48.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SecurityUserController.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Controllers\\SecurityUserController.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystem\\Controllers\\SecurityUserController.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Controllers\\SecurityUserController.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystem\\Controllers\\SecurityUserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:49:40.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OfficeUserController.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Controllers\\OfficeUserController.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystem\\Controllers\\OfficeUserController.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Controllers\\OfficeUserController.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystem\\Controllers\\OfficeUserController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:49:32.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VisitorService.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Services\\VisitorService.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystem\\Services\\VisitorService.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Services\\VisitorService.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystem\\Services\\VisitorService.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAA2wCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:48:58.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SecurityService.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Services\\SecurityService.cs",
+              "RelativeDocumentMoniker": "VisitorSecurityClearanceSystem\\Services\\SecurityService.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\VisitorSecurityClearance\\VisitorSecurityClearanceSystem\\VisitorSecurityClearanceSystem\\Services\\SecurityService.cs",
+              "RelativeToolTip": "VisitorSecurityClearanceSystem\\Services\\SecurityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:48:30.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

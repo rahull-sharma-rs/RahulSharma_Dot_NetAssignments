@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\VisitorSecurityClearanceSystem",
+    "\\VisitorSecurityClearanceSystem\\Common",
+    "\\VisitorSecurityClearanceSystem\\Controllers",
+    "\\VisitorSecurityClearanceSystem\\CosmoDB",
+    "\\VisitorSecurityClearanceSystem\\DTO",
+    "\\VisitorSecurityClearanceSystem\\Entites",
+    "\\VisitorSecurityClearanceSystem\\Interface"
+  ],
+  "SelectedNode": "\\VisitorSecurityClearanceSystem.sln",
+  "PreviewInSolutionExplorer": false
+}
