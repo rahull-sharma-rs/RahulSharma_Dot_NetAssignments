@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Common",
+    "\\Controllers",
+    "\\CosmosDB",
+    "\\DTO",
+    "\\Entity",
+    "\\Interface",
+    "\\Service"
+  ],
+  "SelectedNode": "\\Entity\\Address.cs",
+  "PreviewInSolutionExplorer": false
+}
